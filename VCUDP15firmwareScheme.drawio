@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T10:01:15.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VMqbDS9h0XfVSlnahWJ2" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T10:09:31.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="EKCRpds0Osi-IfnTOT03" version="21.6.5" type="github">
   <diagram name="Pagina-1" id="WuG5oDFA0w9qseAFticR">
-    <mxGraphModel dx="1616" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1989" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,12 +18,6 @@
         </mxCell>
         <mxCell id="_rqKJHLwqv8T1QupsVQK-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ADC 1&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1460" y="475" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="_rqKJHLwqv8T1QupsVQK-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="_rqKJHLwqv8T1QupsVQK-4" target="_rqKJHLwqv8T1QupsVQK-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="580" as="sourcePoint" />
-            <mxPoint x="1010" y="530" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_rqKJHLwqv8T1QupsVQK-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;FREERTOS&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="670" y="320" width="260" height="620" as="geometry" />

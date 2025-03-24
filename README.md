@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/CarloFerr/github-widgetbox">
-          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,nuxt,angular,electron,tailwind&tools=git,vscode,matlab,apache,jupyter&includeNames=true&theme=default" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=python,c,cpp,html,css,powershell,js,mysql,json,yaml,xml,lua, bash&includeNames=true&theme=default" alt="GitHub WidgetBox" />
+          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,nuxt,angular,electron,tailwind&tools=git,vscode,simulink,apache,jupyter&includeNames=true&theme=default" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=python,c,cpp,html,css,powershell,js,mysql,json,yaml,xml,lua,bash&includeNames=true&theme=default" alt="GitHub WidgetBox" />
   </a>
 </p>
 

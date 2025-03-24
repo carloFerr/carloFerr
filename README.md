@@ -1,3 +1,7 @@
+# CarloFerr
+
+<hr>
+
 - 👋 Hi, I’m @carloFerr
 - 👀 I’m interested in cars
 - 🤖 I’m currently studying Automation and Control Engineering
@@ -9,14 +13,24 @@
 carloFerr/carloFerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<hr>
 
 ## Overview
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=carloFerr&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)
 
+<hr>
 
 ## My experience
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown,&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WidgetBox" />
+  </a>
+  <a href="https://github.com/Jurredr/github-widgetbox">
+          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,nuxt,angular,electron,tailwind&tools=git,npm,yarn,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,aws,jupyter,gradle&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,c,mysql,postgres,kotlin,haskell,markdown,json,yaml,xml,lua,bash&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+  </a>
+</p>
 
 <hr>
 

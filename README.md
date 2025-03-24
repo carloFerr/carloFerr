@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="60%" src="https://github-widgetbox.vercel.app/api/profile?username=CarloFerr&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" />
+    <img width="80%" src="https://github-widgetbox.vercel.app/api/profile?username=CarloFerr&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/CarloFerr/github-widgetbox">
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=python,c,cpp,html,css,powershell,js,mysql,json,yaml,xml,lua,bash&includeNames=true&theme=default" alt="GitHub WidgetBox" />

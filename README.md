@@ -1,5 +1,3 @@
-<strong> CarloFerr </strong>
-
 <hr>
 
 - 👋 Hi, I’m @carloFerr
@@ -16,14 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-## Overview
-<hr>
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=carloFerr&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)
 
-<hr>
-
-## My experience
 <hr>
 
 <p align="center">

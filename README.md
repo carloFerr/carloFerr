@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @carloFerr
 - 👀 I’m interested in cars
-- 🤖 I’m currently studying Automation Engineering
+- 🤖 I’m currently studying Automation and Control Engineering
 - 🏎 I’m member of E&P department @dynamisPRC
+- 🏎 I developed an AI driver to compete against F2 drivers in the Trident Motorsport Team.
 - 📫 How to reach me carlo.ferrara.2000@gmail.com
 
 <!---

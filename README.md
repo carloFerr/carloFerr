@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=CarloFerr&count_private=true&show_icons=true&theme=default" alt="User stats" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=CarloFerr&count_private=false&show_icons=true&theme=default" alt="User stats" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloFerr&layout=compact&theme=default" alt="Top languages" />
 </p>

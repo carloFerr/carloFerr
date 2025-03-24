@@ -1,6 +1,7 @@
 # CarloFerr
 
 <hr>
+
 - 👋 Hi, I’m @carloFerr
 - 👀 I’m interested in cars
 - 🤖 I’m currently studying Automation and Control Engineering
@@ -12,15 +13,19 @@
 carloFerr/carloFerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <hr>
 
 ## Overview
 <hr>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=carloFerr&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)
+
 <hr>
 
 ## My experience
 <hr>
+
 <p align="center">
   <a href="https://github.com/CarloFerr/github-widgetbox">
           <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,nuxt,angular,electron,tailwind&tools=git,npm,yarn,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,aws,jupyter,gradle&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
@@ -34,3 +39,5 @@ You can click the Preview link to take a look at your changes.
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=CarloFerr&count_private=true&show_icons=true&include_all_commits=true&theme=default" alt="User stats" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloFerr&layout=compact&theme=default&include_all_commits=true" alt="Top languages" />
 </p>
+
+<hr>

@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Overview
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=carloFerr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=carloFerr&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)
 
 
 ## My experience

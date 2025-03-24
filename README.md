@@ -17,3 +17,10 @@ You can click the Preview link to take a look at your changes.
 ## My experience
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown,&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+<hr>
+
+<p align="center">
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=CarloFerr&count_private=true&show_icons=true&theme=omni" alt="User stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloFerr&layout=compact&theme=omni" alt="Top languages" />
+</p>

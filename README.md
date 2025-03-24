@@ -19,10 +19,10 @@ You can click the Preview link to take a look at your changes.
     <img width="60%" src="https://github-widgetbox.vercel.app/api/profile?username=CarloFerr&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/CarloFerr/github-widgetbox">
-    <img width="60%" src="https://github-widgetbox.vercel.app/api/skills?names=python,c,cpp,html,css,powershell,js,mysql,json,yaml,xml,lua,bash&tools=git,vscode,mathworks,apache,jupyter&includeNames=true&theme=default" alt="GitHub WidgetBox" />
+    <img width="60%" src="https://github-widgetbox.vercel.app/api/skills?names=python,c,cpp,html,css,powershell,js,mysql,json,yaml,xml,lua,bash&includeNames=true&theme=default" alt="GitHub WidgetBox" />
   </a>
 </p>
-
+&tools=git,vscode,mathworks,apache,jupyter
 <hr>
 
 <p align="center">

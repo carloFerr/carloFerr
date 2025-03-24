@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=CarloFerr&count_private=true&show_icons=true&include_all_commits=true&theme=default" alt="User stats" />
-  <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloFerr&layout=compact&theme=default&include_all_commits=true" alt="Top languages" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloFerr&layout=compact&theme=default&include_all_commits=true" alt="Top languages" />
 </p>
 
 <hr>
